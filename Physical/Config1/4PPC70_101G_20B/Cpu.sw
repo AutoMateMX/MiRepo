@@ -4,5 +4,8 @@
   <TaskClass Name="Cyclic#1" />
   <TaskClass Name="Cyclic#2" />
   <TaskClass Name="Cyclic#3" />
-  <TaskClass Name="Cyclic#4" />
+  <TaskClass Name="Cyclic#4">
+    <Task Name="Main" Source="Source.Main.prg" Memory="UserROM" Language="IEC" Debugging="true" />
+    <Task Name="ControlPue" Source="Source.ControlPuertas.prg" Memory="UserROM" Language="IEC" Debugging="true" />
+  </TaskClass>
 </SwConfiguration>
