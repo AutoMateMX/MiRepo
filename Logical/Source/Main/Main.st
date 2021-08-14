@@ -1,6 +1,8 @@
 
 PROGRAM _INIT
-	(* Insert code here *)
+	//Inicialización
+	ok := FALSE;
+	puerta := FALSE;
 	 
 END_PROGRAM
 
