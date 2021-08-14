@@ -5,7 +5,10 @@ PROGRAM _INIT
 END_PROGRAM
 
 PROGRAM _CYCLIC
-	(* Insert code here *)
+	
+	IF ok THEN
+		puerta := TRUE;
+	END_IF;
 	 
 END_PROGRAM
 

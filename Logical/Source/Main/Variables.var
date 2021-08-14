@@ -1,0 +1,4 @@
+VAR
+	ok : BOOL;
+	puerta : BOOL;
+END_VAR
