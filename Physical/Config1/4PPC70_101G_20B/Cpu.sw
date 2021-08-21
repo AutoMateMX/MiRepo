@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<?AutomationStudio Version=4.7.2.98?>
+<?AutomationStudio Version=4.7.6.114 SP?>
 <SwConfiguration CpuAddress="SL1" xmlns="http://br-automation.co.at/AS/SwConfiguration">
   <TaskClass Name="Cyclic#1" />
   <TaskClass Name="Cyclic#2" />
@@ -11,4 +11,7 @@
   <VcDataObjects>
     <VcDataObject Name="Visu" Source="Visu.Visu.dob" Memory="UserROM" Language="Vc" WarningLevel="2" />
   </VcDataObjects>
+  <Libraries>
+    <LibraryObject Name="standard" Source="Libraries.standard.lby" Memory="UserROM" Language="binary" Debugging="true" />
+  </Libraries>
 </SwConfiguration>
