@@ -14,19 +14,7 @@ PROGRAM _CYCLIC
 	
 	// Hola mundo del GIT
 	
-	CASE state OF
-		1:
-		
-		2:
-		
-		3:
-		
-		4:
-		
-		5:
-		
-
-	END_CASE;
+	
 	 
 END_PROGRAM
 
