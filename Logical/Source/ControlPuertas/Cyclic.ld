@@ -6,7 +6,7 @@ PROGRAM _CYCLIC
 	<network label="" comment="" row="2" column="0" commented="0">
 		<row>
 			<contact type="open" name="Boton"/>
-			<contact type="closed" name="TON_1"/>
+			<contact type="closed" name="TON_1.Q"/>
 			<line/>
 			<coil type="open" name="Chapa"/>
 		</row>
@@ -26,7 +26,7 @@ PROGRAM _CYCLIC
 		<row>
 			<contact type="open" name="Chapa"/>
 			<functionblock position="top" type="TON"><input name="IN"/><output name="Q"/></functionblock>
-			<empty/>
+			<coil type="open" name="Salida"/>
 		</row>
 		<row>
 			<analog type="input" name="T#3s"/>
@@ -36,6 +36,7 @@ PROGRAM _CYCLIC
 	</network>
 </networks>
 END_PROGRAM
+
 
 
 

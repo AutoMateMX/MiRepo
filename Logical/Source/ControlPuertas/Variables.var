@@ -2,4 +2,5 @@ VAR
 	Boton : BOOL;
 	Chapa : BOOL;
 	TON_1 : TON;
+	Salida : BOOL;
 END_VAR
