@@ -1,4 +1,5 @@
 VAR
 	Boton : BOOL;
 	Chapa : BOOL;
+	TON_1 : TON;
 END_VAR
