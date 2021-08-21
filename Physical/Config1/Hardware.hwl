@@ -1,8 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<?AutomationStudio FileVersion="4.9"?>
-<BR.AS.HardwareTopology>
+<BR.AS.HardwareTopology Version="0.0.0.1">
   <TimeStamps>
-    <TimeStamp LogicalPath="Config1.Hardware.hw" LastWriteTime="08/14/2021 10:57:26" />
+    <TimeStamp LogicalPath="Config1.Hardware.hw" LastWriteTime="08/21/2021 08:59:35" />
   </TimeStamps>
   <Modules>
     <Module Name="4PPC70_101G_20B" Type="4PPC70.101G-20B" X="100" Y="100" />
