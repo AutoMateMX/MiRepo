@@ -1,6 +1,6 @@
 
 TYPE
-	Main_ctrl_type : 	STRUCT 
+	Ctrl_type : 	STRUCT 
 		cmd : USINT;
 		param : USINT;
 		status : USINT;
