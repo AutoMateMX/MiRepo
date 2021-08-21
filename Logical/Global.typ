@@ -1,7 +1,12 @@
 
 TYPE
+	Cmd_type : 
+		(
+		start,
+		stop
+		);
 	Ctrl_type : 	STRUCT 
-		cmd : USINT;
+		cmd : Cmd_type;
 		param : USINT;
 		status : USINT;
 		state : USINT;
