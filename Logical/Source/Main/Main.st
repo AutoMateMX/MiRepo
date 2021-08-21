@@ -21,6 +21,10 @@ PROGRAM _CYCLIC
 		
 		3:
 		
+		4:
+		
+		5:
+		
 
 	END_CASE;
 	 
