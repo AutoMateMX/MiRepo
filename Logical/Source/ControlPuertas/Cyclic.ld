@@ -11,7 +11,7 @@ PROGRAM _CYCLIC
 			<coil type="open" name="Chapa"/>
 		</row>
 		<row>
-			<contact type="closed" name="Chapa" or="true"/>
+			<contact type="open" name="Chapa" or="true"/>
 			<empty/>
 			<empty/>
 			<empty/>
@@ -19,5 +19,6 @@ PROGRAM _CYCLIC
 	</network>
 </networks>
 END_PROGRAM
+
 
 
