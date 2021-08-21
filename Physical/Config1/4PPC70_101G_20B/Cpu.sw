@@ -8,4 +8,7 @@
     <Task Name="Main" Source="Source.Main.prg" Memory="UserROM" Language="IEC" Debugging="true" />
     <Task Name="ControlPue" Source="Source.ControlPuertas.prg" Memory="UserROM" Language="IEC" Debugging="true" />
   </TaskClass>
+  <VcDataObjects>
+    <VcDataObject Name="Visu" Source="Visu.Visu.dob" Memory="UserROM" Language="Vc" WarningLevel="2" />
+  </VcDataObjects>
 </SwConfiguration>
