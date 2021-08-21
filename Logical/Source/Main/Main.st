@@ -13,6 +13,16 @@ PROGRAM _CYCLIC
 	END_IF;
 	
 	// Hola mundo del GIT
+	
+	CASE state OF
+		1:
+		
+		2:
+		
+		3:
+		
+
+	END_CASE;
 	 
 END_PROGRAM
 

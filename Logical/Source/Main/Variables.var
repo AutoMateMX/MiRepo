@@ -1,4 +1,5 @@
 VAR
 	ok : BOOL;
 	puerta : BOOL;
+	state : INT;
 END_VAR
