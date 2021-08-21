@@ -1,8 +1,4 @@
-
 VAR
-
-END_VAR
-
-VAR CONSTANT
-
+	Boton : BOOL;
+	Chapa : BOOL;
 END_VAR
